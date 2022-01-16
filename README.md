@@ -2,5 +2,6 @@
 
 #### How to use
 以下を編集して下さい
+- LIFF ID (index.htmlの25行目)
 - Stripeの公開キー (index.htmlの40行目)
 - 公開したい商品の価格ID (index.htmlの40行目)
